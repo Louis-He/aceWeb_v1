@@ -16,9 +16,9 @@
     margin-right: 12.5%;
 }
 
-.photo{
-    margin-left: 15%;
-    margin-right: 15%;
+.evenMain{
+    margin-left: 7.5%;
+    margin-right: 7.5%;
 }
 
 
@@ -28,12 +28,20 @@
 }
 
 @media (min-width: 1px) {
+    .photo-xs{
+        margin-left: 1%;
+        margin-right: 1%;
+    }
     .titleTop-xs {
         padding-top: 30px;
     }
 }
 
 @media (min-width: 576px) {
+    .photo-sm{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
     .submenu{
         padding-left: 1.5rem;
         padding-right: 1.5rem;
@@ -44,6 +52,10 @@
 }
 
 @media (min-width: 768px) {
+    .photo-md{
+        margin-left: 15%;
+        margin-right: 15%;
+    }
     .submenu{
         padding-left: 1.5rem;
         padding-right: 1.5rem;
@@ -54,6 +66,10 @@
 }
 
 @media (min-width: 992px) {
+    .photo-md{
+        margin-left: 15%;
+        margin-right: 15%;
+    }
     .submenu{
         padding-left: 1.5rem;
         padding-right: 1.5rem;
