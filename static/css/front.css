@@ -7171,7 +7171,6 @@ svg {
 .u-hamburger {
   font-size: inherit;
   line-height: 0;
-  padding-right: 0.25rem;
 }
 
 .u-hamburger:hover .u-hamburger__inner, .u-hamburger:hover .u-hamburger__inner::before, .u-hamburger:hover .u-hamburger__inner::after {
