@@ -106,9 +106,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>s</find>
-      <find>xs</find>
-      <find>u-space-03-top--xs</find>
       <find>sm</find>
       <find>img</find>
       <find>What we do?</find>
@@ -136,10 +133,14 @@
       <find>btn</find>
       <find>tatic/images/homepage.jpg</find>
       <find>Front</find>
+      <find>2018</find>
+      <find>ACE. 2018</find>
+      <find>Sorry</find>
     </findStrings>
     <replaceStrings>
       <replace>js</replace>
       <replace>url(../font</replace>
+      <replace>ACE. 2018-2019</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
